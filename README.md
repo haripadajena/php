@@ -6,7 +6,7 @@ This repository demonstrates how to implement and use the **PHP Repository** in 
 
 ## Table of Contents
 
-1. [country-state-city-dropdown]([https://github.com/haripadajena/php/country-state-city-dropdown](https://github.com/haripadajena/php/tree/main/country-state-city-dropdown))
+1. [country-state-city-dropdown](https://github.com/haripadajena/php/tree/main/country-state-city-dropdown)
 2. [Folder Structure](#folder-structure)
 3. [Installation](#installation)
 4. [Implementation Steps](#implementation-steps)
