@@ -40,12 +40,14 @@ php/
 └── project 4/
     └── [Blade templates or plain HTML files]
 
+```
+
 ## Clone the repository
 
    ```bash
    git clone https://github.com/haripadajena/php.git
    cd php
 
-
+```
 
 
