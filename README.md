@@ -31,7 +31,7 @@ The Repository Pattern is a design pattern used to separate the business logic f
 ## All Project Structure
 ```bash
 php/
-├── 1."https://github.com/haripadajena/php/country-state-city-dropdown/"
+├── 1-state-city-dropdown
 │   └── [Model files]
 ├── project 2/
 │   ├── [Repository files]
