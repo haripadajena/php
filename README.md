@@ -6,7 +6,7 @@ This repository demonstrates how to implement and use the **PHP Repository** in 
 
 ## Table of Contents
 
-1. [Visit the GitHub Repository](https://github.com/yourusername/yourrepository)
+1. [country-state-city-dropdown](https://github.com/haripadajena/php/country-state-city-dropdown)
 2. [Folder Structure](#folder-structure)
 3. [Installation](#installation)
 4. [Implementation Steps](#implementation-steps)
@@ -31,8 +31,8 @@ The Repository Pattern is a design pattern used to separate the business logic f
 ## All Project Structure
 ```bash
 php/
-├── 1 
-│   └── [Model files]
+├── 1. country-state-city-dropdown 
+│   └── [country-state-city-dropdown files]
 ├── project 2/
 │   ├── [Repository files]
 ├── project 3/
