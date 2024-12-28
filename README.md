@@ -28,10 +28,17 @@ The Repository Pattern is a design pattern used to separate the business logic f
 
 ---
 
-## Folder Structure
+## All Project Structure
 
-Here’s an example folder structure for using the repository pattern:
-src/ ├── Models/ │ └── User.php ├── Repositories/ │ ├── UserRepository.php │ └── UserRepositoryInterface.php └── Controllers/ └── UserController.php
+php/
+├── 1.country-state-city-dropdown/
+│   └── [Model files]
+├── project 2/
+│   ├── [Repository files]
+├── project 3/
+│   └── [Controller files]
+└── project 4/
+    └── [Blade templates or plain HTML files]
 
 ## Clone the repository
 
