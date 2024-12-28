@@ -6,7 +6,7 @@ This repository demonstrates how to implement and use the **PHP Repository** in 
 
 ## Table of Contents
 
-1. [What is the Repository Pattern?](#what-is-the-repository-pattern)
+1. [Visit the GitHub Repository](https://github.com/yourusername/yourrepository)
 2. [Folder Structure](#folder-structure)
 3. [Installation](#installation)
 4. [Implementation Steps](#implementation-steps)
@@ -29,9 +29,9 @@ The Repository Pattern is a design pattern used to separate the business logic f
 ---
 
 ## All Project Structure
-```markdown
+```bash
 php/
-├── 1 [Visit the GitHub Repository](https://github.com/yourusername/yourrepository)
+├── 1 
 │   └── [Model files]
 ├── project 2/
 │   ├── [Repository files]
