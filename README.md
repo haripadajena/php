@@ -29,7 +29,7 @@ The Repository Pattern is a design pattern used to separate the business logic f
 ---
 
 ## All Project Structure
-```bash
+bash
 php/
 ├── 1.country-state-city-dropdown/
 │   └── [Model files]
@@ -42,7 +42,7 @@ php/
 
 ## Clone the repository
 
-   ```bash
+   bash
    git clone https://github.com/haripadajena/php.git
    cd php
 
