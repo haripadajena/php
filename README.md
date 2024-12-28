@@ -7,7 +7,7 @@ This repository demonstrates how to implement and use the **PHP Repository** in 
 ## Table of Contents
 
 1. [country-state-city-dropdown](https://github.com/haripadajena/php/tree/main/country-state-city-dropdown)
-2. [Folder Structure](#folder-structure)
+2. [php-mysqli-crud](https://github.com/haripadajena/php/tree/main/php-mysqli-crud)
 3. [Installation](#installation)
 4. [Implementation Steps](#implementation-steps)
 5. [Example Code](#example-code)
@@ -33,8 +33,8 @@ The Repository Pattern is a design pattern used to separate the business logic f
 php/
 ├── 1. country-state-city-dropdown 
 │   └── [country-state-city-dropdown files]
-├── project 2/
-│   ├── [Repository files]
+├── 2. php-mysqli-crud/
+│   ├── [php-mysqli-crud files]
 ├── project 3/
 │   └── [Controller files]
 └── project 4/
